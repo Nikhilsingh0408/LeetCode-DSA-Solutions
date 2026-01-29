@@ -25,7 +25,7 @@ This repository reflects my consistent problem-solving journey and strong founda
 | Metric | Value |
 |------|-------|
 | Problems Solved | **1200+** |
-| Contest Rating | **1822** |
+| Contest Rating | **1850+** |
 | Global Rank | **~59,460** |
 | Badges | ⭐ **21+** |
 | Primary Language | **C++** |
